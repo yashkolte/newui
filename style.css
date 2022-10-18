@@ -223,3 +223,15 @@
     text-align: center;
     background-color: #fff;
 }
+
+#main-content #copyright {
+  display: flex;
+  position: absolute;
+  bottom: 10%;
+  right: 50%;
+  translate: transformX(-50%);
+}
+
+#main-content #copyright h2{
+  color: #fff;
+}
